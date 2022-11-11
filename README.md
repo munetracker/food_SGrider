@@ -1,3 +1,6 @@
+The Complete React Native + Hooks Course
+by Stephen Grider
+
 lesson 8 to 11
 
 npx create-expo-app 'project title'
@@ -17,4 +20,5 @@ plugins: ["react-native-reanimated/plugin"],
 github.com/expo/vector-icons
 https://icons.expo.fyi/
 
-
+installed for env files, just follow documentation
+https://www.npmjs.com/package/react-native-dotenv
